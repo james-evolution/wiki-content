@@ -1,7 +1,8 @@
 ---
-title: Pipeline Scheduling
 order: 2
 ---
+
+# Pipeline Scheduling
 
 All production pipelines are scheduled through the shared Airflow instance rather than ad hoc
 cron jobs, so ownership, retries, and alerting are consistent across teams.

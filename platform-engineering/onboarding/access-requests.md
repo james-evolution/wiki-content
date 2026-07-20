@@ -1,7 +1,8 @@
 ---
-title: Access Requests
 order: 2
 ---
+
+# Access Requests
 
 Most access in the org is granted through Azure AD group membership rather than one-off manual
 grants, so requesting the right group gets you into every system that trusts it.

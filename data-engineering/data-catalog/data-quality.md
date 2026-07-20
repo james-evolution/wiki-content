@@ -1,7 +1,8 @@
 ---
-title: Data Quality Checks
 order: 2
 ---
+
+# Data Quality Checks
 
 Every table listed in **Key Datasets** has an associated set of quality checks that run after its
 load completes, before the table is marked ready for downstream consumption.

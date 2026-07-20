@@ -1,7 +1,8 @@
 ---
-title: Incident Response
 order: 1
 ---
+
+# Incident Response
 
 When a production alert fires and you're the responder, follow this sequence rather than
 improvising — it keeps the incident channel useful for whoever joins after you.

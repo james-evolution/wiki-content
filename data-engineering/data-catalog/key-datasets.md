@@ -1,7 +1,8 @@
 ---
-title: Key Datasets
 order: 1
 ---
+
+# Key Datasets
 
 The most-used datasets in the warehouse, and who to ask when something looks wrong.
 

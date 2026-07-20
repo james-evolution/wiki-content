@@ -1,7 +1,8 @@
 ---
-title: Post-Incident Review
 order: 2
 ---
+
+# Post-Incident Review
 
 Every confirmed security incident gets a written review within 5 business days of resolution,
 regardless of severity. This is separate from the containment work itself — the review's job is

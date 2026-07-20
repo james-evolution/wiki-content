@@ -1,7 +1,8 @@
 ---
-title: Local Setup
 order: 1
 ---
+
+# Local Setup
 
 Follow these steps to get a working development environment on your first day.
 
