@@ -3,8 +3,6 @@ title: Orders ETL Job
 order: 1
 ---
 
-# Orders ETL Job
-
 Nightly job that extracts order events from the production event queue, transforms them into the
 warehouse schema, and loads them into `warehouse.orders_fact`.
 

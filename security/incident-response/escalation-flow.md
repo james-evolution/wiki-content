@@ -3,8 +3,6 @@ title: Escalation Flow
 order: 1
 ---
 
-# Escalation Flow
-
 How a suspected security incident moves from first report to resolution. This is distinct from
 the platform team's general **Incident Response** runbook — use this flow specifically for
 anything involving unauthorized access, data exposure, or suspected compromise.

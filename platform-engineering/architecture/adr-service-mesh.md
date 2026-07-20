@@ -3,8 +3,6 @@ title: "ADR-004: Adopt a Service Mesh"
 order: 1
 ---
 
-# ADR-004: Adopt a Service Mesh
-
 **Status:** Accepted
 **Date:** 2026-03-12
 

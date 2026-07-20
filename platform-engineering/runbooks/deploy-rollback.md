@@ -3,8 +3,6 @@ title: Deploy Rollback
 order: 2
 ---
 
-# Deploy Rollback
-
 Rolling back is the fastest mitigation for most production incidents caused by a recent deploy.
 This page covers the standard path; skip to the manual section only if it fails.
 

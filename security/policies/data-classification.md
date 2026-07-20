@@ -3,8 +3,6 @@ title: Data Classification
 order: 2
 ---
 
-# Data Classification
-
 Every dataset and document should carry one of three classification levels, which determines who
 can access it and how it must be stored.
 

@@ -3,8 +3,6 @@ title: Access Control Policy
 order: 1
 ---
 
-# Access Control Policy
-
 All access to internal systems is granted via Azure AD group membership, following the principle
 of least privilege — request the narrowest group that lets you do your job, not the broadest one
 that saves you asking again later.

@@ -3,8 +3,6 @@ title: Developer Tooling
 order: 3
 ---
 
-# Developer Tooling
-
 A quick reference for the tools the platform team maintains and expects you to use day to day.
 
 - **platform-cli** — wraps common Docker Compose, cluster, and secrets workflows. Run

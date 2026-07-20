@@ -3,8 +3,6 @@ title: System Diagram
 order: 2
 ---
 
-# System Diagram
-
 A high-level view of how a request flows from the edge into our core services, for anyone trying
 to orient themselves before diving into a specific service's own docs.
 
