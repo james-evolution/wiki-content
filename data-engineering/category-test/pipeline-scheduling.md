@@ -1,7 +1,6 @@
 ---
 order: 2
 ---
-
 # Pipeline Scheduling
 
 All production pipelines are scheduled through the shared Airflow instance rather than ad hoc
